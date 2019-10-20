@@ -14,5 +14,9 @@ Technology used:-
 Python 3.
 Machine Learning.
 
+What we have done till now:-
+
+We collected past 16 years data of Stocks from NSE(National stock Exchange). We passed these data through several cost determining formulas and prepared that data to be feded in Machine Learning Modals. Currently we have only preapered data and not sends this data to machine learning modals due to limited knowledge of those Modals.
+
 
 
